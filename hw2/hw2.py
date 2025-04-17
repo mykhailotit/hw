@@ -10,7 +10,6 @@ from pathlib import Path
 import requests
 import pandas as pd
 
-# Шось наче зробилося не без допомоги гпт... і дивом ще й це працює
 # пр. еом. D:\folder --filename output --gender male --rows 100
 
 title_map = {
